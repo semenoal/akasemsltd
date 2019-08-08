@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={construction_large} className="App-construction_large" alt="construction_large" />
         <p>
-          Akasems portal. Work in progress...
+          Akasems portal website. Work in progress...
         </p>
  
       </header>
